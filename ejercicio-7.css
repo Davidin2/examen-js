@@ -1,0 +1,14 @@
+
+
+
+body > div {display:flex;
+    flex-wrap: wrap;
+    width: 400px;
+    margin:auto;}
+
+body > div  > div {
+    display:block;
+    height: 100px;
+    width: 100px;
+
+background-color: bisque;}
